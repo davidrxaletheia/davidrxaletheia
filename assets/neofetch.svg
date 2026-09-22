@@ -30,7 +30,7 @@
       <circle cx="238" cy="215" r="148"/>
     </clipPath>
     <path id="orbitWide" d="M 62 215 A 176 78 0 1 1 414 215 A 176 78 0 1 1 62 215"/>
-    <path id="orbitTall" d="M 238 56 A 82 168 0 1 1 238 374 A 82 168 0 1 1 238 56"/>
+    <path id="orbitTall" d="M 238 86 A 62 129 0 1 1 238 344 A 62 129 0 1 1 238 86"/>
     <path id="orbitTilt" d="M 72 154 A 180 72 -22 1 1 404 276 A 180 72 -22 1 1 72 154"/>
   </defs>
 
@@ -46,7 +46,7 @@
   <rect x="84" y="61" width="308" height="308" fill="url(#binary)" clip-path="url(#circleClip)" opacity=".38"/>
   <g fill="none" stroke-linecap="round">
     <ellipse cx="238" cy="215" rx="176" ry="78" stroke="#cba6f7" stroke-width="2" opacity=".7"/>
-    <ellipse cx="238" cy="215" rx="82" ry="168" stroke="#89dceb" stroke-width="2" opacity=".58"/>
+    <ellipse cx="238" cy="215" rx="62" ry="129" stroke="#89dceb" stroke-width="2" opacity=".58"/>
     <ellipse cx="238" cy="215" rx="180" ry="72" transform="rotate(20 238 215)" stroke="#f5c2e7" stroke-width="2" opacity=".52"/>
   </g>
   <g font-family="Courier New,Courier,Consolas,monospace" font-size="15" letter-spacing="4">
@@ -55,7 +55,7 @@
     <text fill="#f5c2e7" opacity=".88"><textPath xlink:href="#orbitTilt" startOffset="8%">0011 0101 1001 0110 0011 0101 1001</textPath></text>
   </g>
   <circle cx="62" cy="215" r="4" fill="#cba6f7"/>
-  <circle cx="238" cy="56" r="4" fill="#89dceb"/>
+  <circle cx="238" cy="86" r="4" fill="#89dceb"/>
   <circle cx="404" cy="276" r="4" fill="#f5c2e7"/>
   <circle cx="238" cy="215" r="104" fill="url(#core)" opacity=".34" filter="url(#glow)"/>
   <circle cx="238" cy="215" r="18" fill="#89dceb" opacity=".25" filter="url(#glow)"/>

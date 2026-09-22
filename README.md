@@ -97,7 +97,7 @@ mi diversión.
 ## `neofetch` 🛠️
 
 <p align="center">
-  <img src="./assets/neofetch.svg" alt="Neofetch de David con una esfera binaria y su stack técnico" />
+  <img src="./assets/neofetch.svg?v=clean-orbits" alt="Neofetch de David con una esfera binaria y su stack técnico" />
 </p>
 
 <p align="center"><sub>un pequeño planeta de bits orbitando APIs, datos y software útil</sub></p>
