@@ -102,28 +102,11 @@ mi diversión.
 
 ## `neofetch` 🛠️
 
-<table>
-  <tr>
-    <td valign="top">
-      <pre>
-      .---------.       david@aletheia
-     /  .---.    \      ----------------
-    |  /     \    |     OS        Aletheia / México
-    |  \     /    |     Shell     curioso y directo
-     \  '---'    /      Focus     backend · producto · IA
-      '---------'       Mood      Catppuccin · café
-      </pre>
-    </td>
-    <td valign="top">
-      <p><strong>runtime</strong></p>
-      <p><code>Go</code> <code>Python</code> <code>TypeScript</code></p>
-      <p><strong>data</strong></p>
-      <p><code>SQL</code> <code>NoSQL</code> <code>PostgreSQL</code></p>
-      <p><strong>infra</strong></p>
-      <p><code>Docker</code> <code>Actions</code> <code>OpenAPI</code></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/neofetch.svg" alt="Neofetch de David con una esfera binaria y su stack técnico" />
+</p>
+
+<p align="center"><sub>un pequeño planeta de bits orbitando APIs, datos y software útil</sub></p>
 
 ## `cat ~/.config/principles` 💡
 
