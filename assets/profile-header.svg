@@ -17,9 +17,9 @@
   <circle cx="52" cy="45" r="9" fill="#f38ba8"/>
   <circle cx="82" cy="45" r="9" fill="#f9e2af"/>
   <circle cx="112" cy="45" r="9" fill="#a6e3a1"/>
-  <text x="600" y="50" text-anchor="middle" fill="#bac2de" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">david@aletheia: ~ — bash</text>
+  <text x="600" y="50" text-anchor="middle" fill="#bac2de" font-family="Courier New,Courier,Consolas,monospace" font-size="16">david@aletheia: ~ — bash</text>
 
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20">
+  <g font-family="Courier New,Courier,Consolas,monospace" font-size="20">
     <text x="58" y="112" fill="#a6e3a1">david@aletheia</text><text x="230" y="112" fill="#cdd6f4">:</text><text x="244" y="112" fill="#89dceb">~</text><text x="260" y="112" fill="#cdd6f4">$ whoami</text>
     <text x="58" y="144" fill="#f5c2e7">David Uriel Ramirez Xochipa</text>
 
