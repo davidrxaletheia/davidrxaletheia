@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Terminal retro Catppuccin de David: backend, producto e inteligencia artificial" />
+  <img src="./assets/profile-header-v2.svg" alt="Terminal retro Catppuccin de David: backend, producto e inteligencia artificial" />
 </p>
 
 ```console
