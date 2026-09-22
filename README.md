@@ -1,42 +1,73 @@
-# David 👋
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="David — backend developer, product engineer and builder of useful software" />
+</p>
 
-### Hago que el caos tenga botones.
+<h1 align="center">David Uriel Ramirez Xochipa 👋</h1>
 
-Soy software engineer y product builder. Me gusta meterme en sistemas que empiezan con “solo necesitamos un pequeño cambio” y terminan teniendo facturación, pagos, reservas, IA, Docker y veinte reglas de negocio. Ahí es donde me divierto.
+<p align="center">
+  <strong>Backend Developer · Product Engineer · Constructor de cosas útiles</strong>
+</p>
 
-En **Tecnológica-AletheIA** he ayudado a convertir procesos complicados en productos que la gente puede usar sin querer aventar la computadora por la ventana.
+<p align="center">
+  <a href="https://aletheia.mx/">Aletheia Solutions</a>
+  · software con IA para problemas reales
+</p>
 
-## Cosas que he construido 🧰
+Me gusta el backend, pero me obsesiona que el producto tenga sentido para quien lo usa. Si un negocio tiene un proceso manual, una regla escondida en Excel o un sistema que se cae cuando llega el caso raro, probablemente ahí empieza mi diversión.
 
-- **Facturación y contabilidad:** CFDI, integración con SAT, Facturapi, PAC, IVA, clientes, productos, comisiones y reconciliación bancaria con OCR.
-- **Pagos y comercio:** checkout, sesiones de pago, 3DS, catálogos, cuentas bancarias, mensualidades y flujos administrativos.
-- **Operación diaria:** reservas, calendarios, disciplinas, instructores, caja, inventario multilocal, merma, gastos, reportes y punto de venta.
-- **Automatización e IA:** agentes y grafos con LangGraph, asistentes para operaciones, Telegram, WhatsApp/Meta y flujos guiados.
-- **Producto digital:** portales administrativos, roles y permisos, dashboards, educación en línea, CRM y experiencias responsive.
+> **Mi especialidad:** convertir “necesitamos algo para esto” en una aplicación que alguien pueda usar el lunes por la mañana.
 
-## Proyectos que resumen mi caos organizado
+## Lo que hago hoy ⚙️
 
-| Proyecto | Problema que ayudo a resolver |
+En **Aletheia** trabajo construyendo soluciones de software potenciadas con IA: APIs, datos, integraciones y productos que ayudan a negocios, escuelas y equipos a operar mejor.
+
+| Me gusta resolver | Cómo se ve en la vida real |
 | --- | --- |
-| **CINPRO** | Facturación electrónica y gestión contable para firmas de contadores, con integraciones SAT, Facturapi, OCR y portal de clientes. |
-| **CUENCO** | Operación de un estudio boutique: agenda, reservas, clases, disciplinas, instructores y experiencias para clientes. |
-| **Facturero** | Flujos administrativos de facturación, portal de gestión, CFDI, pagos, asistentes y reglas de negocio. |
-| **ImaMedica** | Comunicación operativa con plantillas de WhatsApp/Meta, catálogos, mensajes y centro de facturación. |
-| **Casa X Raíz** | Gestión de proyectos, pagos, documentos, manuales y automatizaciones conectadas con Telegram e IA. |
-| **Berry Verde** | Inventario multilocal, caja, ventas, mermas, reportes, impresión y operación de una frutería real. |
-| **Aura** | Plataforma educativa con lecciones, juegos y progreso por habilidad. |
+| **Backend con propósito** | APIs RESTful, reglas de negocio, servicios y microservicios que no dependen de la magia. |
+| **Datos que cuentan una historia** | SQL, NoSQL, migraciones, dashboards, OCR, reportes y decisiones con contexto. |
+| **Sistemas que hablan** | SAT/CFDI, Facturapi, pagos, WhatsApp/Meta, Telegram y servicios externos. |
+| **Producto que no pelea** | Flujos claros, permisos, estados vacíos, errores recuperables y pantallas que no hacen sufrir. |
 
-## Mi forma de construir (y sobrevivir)
+## Proyectos que resumen mi caos organizado 🧰
 
-- Empiezo por el dominio y el flujo de usuario, no por el framework.
-- Cuido tanto el camino feliz como los estados vacíos, permisos, errores y recuperaciones.
-- Trabajo con límites claros entre frontend, backend, contratos, datos e infraestructura.
-- Uso Docker, CI, pruebas, migraciones, documentación y observabilidad para que el sistema sea operable, no solo demostrable.
-- Me gusta dejar cada cambio más entendible que como lo encontré. Si además queda bonito, mejor.
+- **CINPRO y Facturero:** facturación electrónica, CFDI, SAT, clientes, productos, pagos, asistentes y operación contable.
+- **CUENCO:** reservas, calendarios, disciplinas, instructores y experiencias para un estudio boutique.
+- **ImaMedica:** plantillas de WhatsApp/Meta, catálogos, mensajes y herramientas para operación médica.
+- **Casa X Raíz:** proyectos, documentos, pagos, manuales y automatizaciones con Telegram e IA.
+- **Berry Verde:** inventario multilocal, caja, ventas, merma, reportes e impresión para una operación física.
+- **Aura:** aprendizaje digital, lecciones, juegos y progreso por habilidad.
 
-## Herramientas con las que me meto en problemas
+## Una pequeña historia en código 🧭
 
-`TypeScript` · `React` · `Next.js` · `Go` · `Python` · `Django` · `FastAPI` · `PostgreSQL` · `MySQL` · `Docker` · `GitHub Actions` · `Playwright` · `OpenAPI` · `LangGraph` · `REST/SOAP`
+No aparecí ayer con un framework de moda.
+
+- **La etapa de los polígonos:** C/C++, OpenGL, curvas Bézier, triángulos, líneas y muchas horas intentando que algo se viera exactamente como lo imaginé.
+- **La etapa de entender sistemas:** Java, Linux, sistemas distribuidos, sistemas operativos y herramientas para convertir datos.
+- **La etapa de construir cosas humanas:** prototipos de bienestar, apps móviles con Dart/Flutter y proyectos que intentaban resolver problemas de personas, no solo de computadoras.
+- **La etapa actual:** backend, APIs, microservicios, datos e IA aplicada a negocios reales.
+
+<details>
+  <summary>🗃️ Abrir la carpeta arqueológica</summary>
+
+  Mi versión `x0chipa` sigue por aquí: [github.com/x0chipa](https://github.com/x0chipa). Ahí quedaron algunos fósiles queridos de C++, Java, Dart, OpenGL y mis primeros experimentos de producto.
+</details>
+
+## Mi caja de herramientas 🛠️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenAPI-0d1117?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=FFFFFF" alt="LangGraph" />
+</p>
+
+## Mi regla favorita 💡
+
+> El software no debería pedirle a la persona que piense como la máquina. Si lo hace, todavía nos falta diseño.
 
 ## Actualmente 🚀
 
@@ -45,5 +76,7 @@ Construyendo software de negocio, persiguiendo bugs y tratando de que el caso qu
 Si hay un proceso manual que pide a gritos una app, probablemente me interese.
 
 <p align="center">
+  <a href="https://aletheia.mx/"><strong>Conoce Aletheia Solutions →</strong></a>
+  <br />
   <em>Software útil, bugs con nombre y café suficiente ☕</em>
 </p>
