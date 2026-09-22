@@ -31,7 +31,7 @@
     </clipPath>
     <path id="orbitWide" d="M 62 215 A 176 78 0 1 1 414 215 A 176 78 0 1 1 62 215"/>
     <path id="orbitTall" d="M 238 86 A 62 129 0 1 1 238 344 A 62 129 0 1 1 238 86"/>
-    <path id="orbitTilt" d="M 72 154 A 180 72 -22 1 1 404 276 A 180 72 -22 1 1 72 154"/>
+    <path id="orbitTilt" d="M 78 215 A 160 60 0 1 1 398 215 A 160 60 0 1 1 78 215"/>
   </defs>
 
   <rect x="18" y="18" width="1164" height="394" rx="18" fill="url(#panel)" stroke="#45475a" stroke-width="2" filter="url(#shadow)"/>
