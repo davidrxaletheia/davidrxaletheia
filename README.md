@@ -26,63 +26,119 @@ mi diversión.
 
 ## `./mission` ⚙️
 
-En **Aletheia** construyo software con IA para problemas reales: APIs, datos, integraciones y productos que ayudan a negocios, escuelas y equipos a operar mejor.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>backend con propósito</h3>
+      <p>APIs que entienden el negocio, reglas que no se esconden y servicios que pueden crecer sin volverse una leyenda urbana.</p>
+      <p><code>REST</code> <code>microservices</code> <code>business rules</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>producto que no pelea</h3>
+      <p>Flujos claros, permisos razonables, errores recuperables y pantallas que no obligan a la persona a pensar como la máquina.</p>
+      <p><code>UX</code> <code>flows</code> <code>reliability</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>datos que cuentan</h3>
+      <p>SQL, NoSQL, migraciones, OCR, reportes y dashboards para que la operación deje de depender de adivinar.</p>
+      <p><code>PostgreSQL</code> <code>MySQL</code> <code>OCR</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>sistemas que hablan</h3>
+      <p>SAT/CFDI, Facturapi, pagos, WhatsApp/Meta, Telegram y las integraciones que hacen que un negocio avance.</p>
+      <p><code>integrations</code> <code>webhooks</code> <code>automation</code></p>
+    </td>
+  </tr>
+</table>
 
-```text
-┌─ backend con propósito ─────────────────────────────────────────────┐
-│ APIs RESTful · reglas de negocio · servicios · microservicios        │
-├─ datos que cuentan una historia ────────────────────────────────────┤
-│ SQL · NoSQL · migraciones · dashboards · OCR · reportes              │
-├─ sistemas que hablan ────────────────────────────────────────────────┤
-│ SAT/CFDI · Facturapi · pagos · WhatsApp/Meta · Telegram              │
-└─ producto que no pelea ──────────────────────────────────────────────┘
-  flujos claros · permisos · errores recuperables · pantallas humanas
-```
+<p align="center"><sub>En Aletheia construyo software con IA para problemas reales de negocios, escuelas y equipos.</sub></p>
 
 ## `ls ~/projects` 🧰
 
-```console
-cinpro/       facturación electrónica, CFDI, SAT y operación contable
-cuenco/       reservas, calendarios, disciplinas e instructores
-facturero/    portal de facturación, pagos y reglas de negocio
-imamedica/    plantillas Meta, catálogos y herramientas de operación médica
-casa-x-raiz/  proyectos, documentos, pagos y automatizaciones con IA
-berry-verde/  inventario, caja, ventas, merma e impresión
-aura/         aprendizaje digital, lecciones, juegos y progreso
-```
+<p><sub>Proyectos donde el código se encuentra con la operación diaria.</sub></p>
+
+| proyecto | misión | zona de juego |
+| :--- | :--- | :--- |
+| `cinpro/` | facturación electrónica, CFDI, SAT y operación contable | <code>billing</code> <code>OCR</code> |
+| `cuenco/` | reservas, calendarios, disciplinas e instructores | <code>booking</code> <code>calendar</code> |
+| `facturero/` | portal de facturación, pagos y reglas de negocio | <code>payments</code> <code>portal</code> |
+| `imamedica/` | plantillas Meta, catálogos y operación médica | <code>WhatsApp</code> <code>catalogs</code> |
+| `casa-x-raiz/` | proyectos, documentos, pagos y automatizaciones con IA | <code>AI</code> <code>Telegram</code> |
+| `berry-verde/` | inventario, caja, ventas, merma e impresión | <code>POS</code> <code>reports</code> |
+| `aura/` | aprendizaje digital, lecciones, juegos y progreso | <code>education</code> <code>games</code> |
+
+<details>
+  <summary><strong>🧭 stack que aparece cuando abro la terminal</strong></summary>
+  <br />
+  <p>
+    <code>Go</code> <code>Python</code> <code>TypeScript</code> <code>Next.js</code>
+    <code>Django</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code>
+    <code>OpenAPI</code> <code>Playwright</code>
+  </p>
+</details>
 
 ## `git log --oneline --all` 🧭
 
-No aparecí ayer con un framework de moda.
+<p><em>No aparecí ayer con un framework de moda.</em></p>
 
-```text
-era 01  C/C++ · OpenGL · curvas Bézier · triángulos · líneas
-era 02  Java · Linux · sistemas distribuidos · sistemas operativos
-era 03  Dart/Flutter · prototipos móviles · proyectos de bienestar
-era 04  Go · Python · TypeScript · APIs · microservicios · IA aplicada
-```
+| commit | era | lo que aprendí construyendo |
+| :---: | :--- | :--- |
+| `01` | **C/C++ · OpenGL** | curvas Bézier, triángulos, líneas y paciencia visual |
+| `02` | **Java · Linux** | sistemas distribuidos y sistemas operativos |
+| `03` | **Dart · Flutter** | prototipos móviles y proyectos de bienestar |
+| `04` | **Go · Python · TypeScript** | APIs, microservicios e IA aplicada |
+
+<p align="center"><code>curiosidad → sistemas → producto → software útil</code></p>
 
 <details>
   <summary>🗃️ Abrir la carpeta arqueológica</summary>
 
-  Mi versión `x0chipa` sigue por aquí: [github.com/x0chipa](https://github.com/x0chipa). Ahí quedaron algunos fósiles queridos de C++, Java, Dart, OpenGL y mis primeros experimentos de producto.
+  <br />
+  Mi versión <code>x0chipa</code> sigue por aquí: <a href="https://github.com/x0chipa">github.com/x0chipa</a>.
+  Ahí quedaron algunos fósiles queridos de C++, Java, Dart, OpenGL y mis primeros experimentos de producto.
 </details>
 
 ## `neofetch` 🛠️
 
-```text
-OS        Aletheia / México
-Shell     curioso, directo y ligeramente obsesionado con los detalles
-Focus     backend · producto · integraciones · IA
-Stack     Go · Python · TypeScript · Next.js · Django · FastAPI
-Data      PostgreSQL · MySQL · SQL · NoSQL
-Infra     Docker · GitHub Actions · Playwright · OpenAPI
-Mood      Catppuccin Mocha · café · bugs con nombre
-```
+<table>
+  <tr>
+    <td valign="top">
+      <pre>
+      .---------.       david@aletheia
+     /  .---.    \      ----------------
+    |  /     \    |     OS        Aletheia / México
+    |  \     /    |     Shell     curioso y directo
+     \  '---'    /      Focus     backend · producto · IA
+      '---------'       Mood      Catppuccin · café
+      </pre>
+    </td>
+    <td valign="top">
+      <p><strong>runtime</strong></p>
+      <p><code>Go</code> <code>Python</code> <code>TypeScript</code></p>
+      <p><strong>data</strong></p>
+      <p><code>SQL</code> <code>NoSQL</code> <code>PostgreSQL</code></p>
+      <p><strong>infra</strong></p>
+      <p><code>Docker</code> <code>Actions</code> <code>OpenAPI</code></p>
+    </td>
+  </tr>
+</table>
 
 ## `cat ~/.config/principles` 💡
 
-> El software no debería pedirle a la persona que piense como la máquina. Si lo hace, todavía nos falta diseño.
+<blockquote>
+  <p><strong>El software no debería pedirle a la persona que piense como la máquina.</strong></p>
+  <p><sub>Si lo hace, todavía nos falta diseño.</sub></p>
+</blockquote>
+
+<table>
+  <tr>
+    <td><strong>01 · claridad</strong><br /><sub>flujos que se entienden</sub></td>
+    <td><strong>02 · criterio</strong><br /><sub>automatizar lo que sí conviene</sub></td>
+    <td><strong>03 · cuidado</strong><br /><sub>el caso raro también existe</sub></td>
+  </tr>
+</table>
 
 ```console
 david@aletheia:~$ echo $MOTTO
