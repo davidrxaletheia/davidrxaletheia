@@ -16,22 +16,17 @@
       <stop offset=".3" stop-color="#74c7ec" stop-opacity=".28"/>
       <stop offset="1" stop-color="#74c7ec" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="binary" width="34" height="28" patternUnits="userSpaceOnUse">
-      <text x="3" y="18" fill="#bac2de" font-family="Courier New,Courier,Consolas,monospace" font-size="15">0</text>
-      <text x="20" y="18" fill="#89dceb" font-family="Courier New,Courier,Consolas,monospace" font-size="15">1</text>
-    </pattern>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
       <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#11111b" flood-opacity=".55"/>
     </filter>
     <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
       <feGaussianBlur stdDeviation="8"/>
     </filter>
-    <clipPath id="circleClip">
-      <circle cx="238" cy="215" r="148"/>
-    </clipPath>
-    <path id="orbitWide" d="M 62 215 A 176 78 0 1 1 414 215 A 176 78 0 1 1 62 215"/>
-    <path id="orbitTall" d="M 238 86 A 62 129 0 1 1 238 344 A 62 129 0 1 1 238 86"/>
-    <path id="orbitTilt" d="M 78 215 A 160 60 0 1 1 398 215 A 160 60 0 1 1 78 215"/>
+    <path id="ring1" d="M 238 181 a 34 34 0 1 1 0 68 a 34 34 0 1 1 0 -68"/>
+    <path id="ring2" d="M 238 155 a 60 60 0 1 1 0 120 a 60 60 0 1 1 0 -120"/>
+    <path id="ring3" d="M 238 129 a 86 86 0 1 1 0 172 a 86 86 0 1 1 0 -172"/>
+    <path id="ring4" d="M 238 103 a 112 112 0 1 1 0 224 a 112 112 0 1 1 0 -224"/>
+    <path id="ring5" d="M 238 81 a 134 134 0 1 1 0 268 a 134 134 0 1 1 0 -268"/>
   </defs>
 
   <rect x="18" y="18" width="1164" height="394" rx="18" fill="url(#panel)" stroke="#45475a" stroke-width="2" filter="url(#shadow)"/>
@@ -43,25 +38,24 @@
   <text x="600" y="50" text-anchor="middle" fill="#bac2de" font-family="Courier New,Courier,Consolas,monospace" font-size="16">david@aletheia: ~ — neofetch</text>
 
   <circle cx="238" cy="215" r="148" fill="url(#sphere)" stroke="#45475a" stroke-width="2"/>
-  <rect x="84" y="61" width="308" height="308" fill="url(#binary)" clip-path="url(#circleClip)" opacity=".38"/>
   <g fill="none" stroke-linecap="round">
-    <ellipse cx="238" cy="215" rx="176" ry="78" stroke="#cba6f7" stroke-width="2" opacity=".7"/>
-    <ellipse cx="238" cy="215" rx="62" ry="129" stroke="#89dceb" stroke-width="2" opacity=".58"/>
-    <ellipse cx="238" cy="215" rx="180" ry="72" transform="rotate(20 238 215)" stroke="#f5c2e7" stroke-width="2" opacity=".52"/>
+    <circle cx="238" cy="215" r="34" stroke="#f5c2e7" stroke-width="1" opacity=".38"/>
+    <circle cx="238" cy="215" r="60" stroke="#cba6f7" stroke-width="1" opacity=".42"/>
+    <circle cx="238" cy="215" r="86" stroke="#89dceb" stroke-width="1" opacity=".46"/>
+    <circle cx="238" cy="215" r="112" stroke="#cba6f7" stroke-width="1" opacity=".36"/>
+    <circle cx="238" cy="215" r="134" stroke="#89dceb" stroke-width="1" opacity=".3"/>
   </g>
   <g font-family="Courier New,Courier,Consolas,monospace" font-size="15" letter-spacing="4">
-    <text fill="#cba6f7" opacity=".96"><textPath xlink:href="#orbitWide" startOffset="4%">0101 1010 0110 1101 0101 1010 0110 1101 0101</textPath></text>
-    <text fill="#89dceb" opacity=".92"><textPath xlink:href="#orbitTall" startOffset="12%">1011 0010 1110 0101 1011 0010 1110</textPath></text>
-    <text fill="#f5c2e7" opacity=".88"><textPath xlink:href="#orbitTilt" startOffset="8%">0011 0101 1001 0110 0011 0101 1001</textPath></text>
+    <text fill="#f5c2e7" opacity=".95"><textPath xlink:href="#ring1" startOffset="2%">01 10 01 10 01 10 01 10 01 10</textPath></text>
+    <text fill="#cba6f7" opacity=".92"><textPath xlink:href="#ring2" startOffset="1%">001 101 001 101 001 101 001 101 001 101</textPath></text>
+    <text fill="#89dceb" opacity=".9"><textPath xlink:href="#ring3" startOffset="1%">0101 1100 0101 1100 0101 1100 0101 1100</textPath></text>
+    <text fill="#cba6f7" opacity=".82"><textPath xlink:href="#ring4" startOffset="1%">1010 0110 1010 0110 1010 0110 1010 0110</textPath></text>
+    <text fill="#89dceb" opacity=".76"><textPath xlink:href="#ring5" startOffset="1%">0011 0101 0011 0101 0011 0101 0011 0101 0011</textPath></text>
   </g>
-  <circle cx="62" cy="215" r="4" fill="#cba6f7"/>
-  <circle cx="238" cy="86" r="4" fill="#89dceb"/>
-  <circle cx="404" cy="276" r="4" fill="#f5c2e7"/>
   <circle cx="238" cy="215" r="104" fill="url(#core)" opacity=".34" filter="url(#glow)"/>
   <circle cx="238" cy="215" r="18" fill="#89dceb" opacity=".25" filter="url(#glow)"/>
   <circle cx="238" cy="215" r="13" fill="#89dceb" opacity=".72"/>
   <circle cx="234" cy="211" r="5" fill="#cdd6f4" opacity=".78"/>
-  <text x="238" y="395" text-anchor="middle" fill="#6c7086" font-family="Courier New,Courier,Consolas,monospace" font-size="13">01001001 · 01000001 · 010</text>
 
   <g font-family="Courier New,Courier,Consolas,monospace">
     <text x="478" y="112" fill="#a6e3a1" font-size="20">david@aletheia</text><text x="650" y="112" fill="#cdd6f4" font-size="20">:~$ neofetch</text>
