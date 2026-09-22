@@ -24,7 +24,7 @@ No me interesa escribir código por escribir código. Me interesa que una person
 | **ImaMedica** | Comunicación operativa con plantillas de WhatsApp/Meta, catálogos, mensajes y centro de facturación. |
 | **Casa X Raíz** | Gestión de proyectos, pagos, documentos, manuales y automatizaciones conectadas con Telegram e IA. |
 | **Berry Verde** | Inventario multilocal, caja, ventas, mermas, reportes, impresión y operación de una frutería real. |
-| **Aura e Instituto Bíblico Maná** | Plataformas educativas, lecciones, juegos, grupos, pagos, asistencia y evidencias. |
+| **Aura** | Plataforma educativa con lecciones, juegos y progreso por habilidad. |
 
 ## Mi forma de construir
 
