@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://aletheia.mx/"><strong>aletheia.mx</strong></a>
-  · <a href="https://github.com/x0chipa">archivo histórico</a>
-  · theme: <code>catppuccin-mocha</code>
+  · si lees esto es porque sabes leer
 </p>
 
 ```console
