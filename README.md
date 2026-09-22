@@ -100,8 +100,6 @@ mi diversión.
   <img src="./assets/neofetch.svg?v=concentric-rings" alt="Neofetch de David con círculos concéntricos de bits y su stack técnico" />
 </p>
 
-<p align="center"><sub>un pequeño planeta de bits orbitando APIs, datos y software útil</sub></p>
-
 ## `cat ~/.config/principles` 💡
 
 <blockquote>
