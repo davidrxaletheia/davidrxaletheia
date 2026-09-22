@@ -2,11 +2,6 @@
   <img src="./assets/profile-header.svg" alt="Terminal retro Catppuccin de David: backend, producto e inteligencia artificial" />
 </p>
 
-<p align="center">
-  <a href="https://aletheia.mx/"><strong>aletheia.mx</strong></a>
-  · si lees esto es porque sabes leer
-</p>
-
 ```console
 david@aletheia:~$ whoami
 David Uriel Ramirez Xochipa
